@@ -1,0 +1,14 @@
+body {
+    background-image: url(img/por-do-sol-tranquilo-da-praia-nas-maldivas-ilha-de-praia-paradisiaca-plano-de-fundo-para-viagens-de-verao-e-ferias_663265-4279.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.textbox {
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    margin: 0 20%;
+    text-align: center;
+    height: 100%;
+}
